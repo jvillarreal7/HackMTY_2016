@@ -10,7 +10,7 @@ Repo for the project from my team at HackMTY 2016.
 |Jaime Villarreal   |[jvillarreal7](https://github.com/jvillarreal7)   |[jvillarreal337@gmail.com](jvillarreal337@gmail.com)   |
 
 ## Synopsis
-This is a modular GPS app project aimed to be used mainly by university students interested in tracking in real-time the public transport buses.
+This is a modular GPS app project aimed to be used mainly by university students interested in tracking the public transport buses.
 ## Motivation
 We thought it'd be nice to track simultaneously the position and direction of each and every school bus on the go, informing clients well in advance about their arrival at any given point within the route they follow. Useful for making the process of catching the bus less stressful and without upsets.
 ##License
